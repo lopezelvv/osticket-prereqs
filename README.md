@@ -28,10 +28,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-   >**Note**: Create a Windows 10 Virtual Machine with 2 or 4 virtual CPUS to ensure that you are not troubled with hiccups  and slow movement throughout the lab.
+   >**Note**: Create a Windows 10 Virtual Machine with 2 or 4 virtual CPUS (I personally suggest 4) to ensure that you are not troubled with a lot of lag and slow movement throughout the lab. Which can be time consuming haha (speaking from experience).
 Allow the VM to create a new Vnet which should be done by default.
 
-We can do a quick search for `Virtual Machine` and as we create the virtual machine, we will have the option to create the Resource Group. Here we select `Create New` to name the name the Resource Group 'RG-osTicket' and build out the Virtual Machine (VM) with the provided settings pictured (below). 
+WOf course, this is taking place in Microsoft Azure. We can do a quick search for `Virtual Machine` and as we create the virtual machine, we will have the option to create the Resource Group. Here we select `Create New` to name the name the Resource Group 'RG-osTicket' and build out the Virtual Machine (VM) with the provided settings pictured (below). 
 
 <p align="center"><img src="https://i.imgur.com/jz0e59n.png" height="70%" width="70%" alt="image of vm settings"/> </p>
 
@@ -236,9 +236,8 @@ Set Permission to "`Read`" only can be acheived by choosing to right-click on '`
  </p>
  <br/>
  
- <p align="center"><i><b>💥Well, That's All Folks and Congratulations On The Completion of This Lab! 😁</i></b></p>
- <p align="center"><i><b>📝 “You don’ have to see the whole staircase. Just take the first step.”📝</p></i></b>
+ <p align="center"><i><b>Congratulations On The Completion of This Lab! </i></b></p>
  
  <br />
  <br />
- <p align="right"> Next Up <a href="https://github.com/0xbythesecond/post-install-config"> OSTicket Post Install Configuration </a></p>
+ <p align="right"> Next Up <a href="https://github.com/lopezelvv/post-install-config"> OSTicket Post Install Configuration </a></p>

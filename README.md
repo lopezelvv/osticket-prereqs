@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    >**Note**: Create a Windows 10 Virtual Machine with 2 or 4 virtual CPUS (I personally suggest 4) to ensure that you are not troubled with a lot of lag and slow movement throughout the lab. Which can be time consuming haha (speaking from experience).
 Allow the VM to create a new Vnet which should be done by default.
 
-WOf course, this is taking place in Microsoft Azure. We can do a quick search for `Virtual Machine` and as we create the virtual machine, we will have the option to create the Resource Group. Here we select `Create New` to name the name the Resource Group 'RG-osTicket' and build out the Virtual Machine (VM) with the provided settings pictured (below). 
+This is taking place in Microsoft Azure, of course. Once you log in or create an account if you dont have an account yet, we will be directed to the home page. We can do a quick search for `Virtual Machine` on the search bar and as we create the virtual machine, we will have the option to create the Resource Group. Here we select `Create New` to name the name the Resource Group 'RG-osTicket' and build out the Virtual Machine (VM) with the provided settings pictured (below). 
 
 <p align="center"><img src="https://i.imgur.com/jz0e59n.png" height="70%" width="70%" alt="image of vm settings"/> </p>
 
